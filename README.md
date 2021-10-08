@@ -12,7 +12,7 @@ Your project must satisfy the following requirements:
 
 - Runs without errors
 
-- The API cannot be the API you created in your last challenge as well as you cannot use the third-party API you used in the previous challenge.
+- If you participated in the backend challenge you cannot use the same third-API or the API that you created in that challenge
 
 - It must be mobile-friendly
 
