@@ -28,8 +28,6 @@ Your project must satisfy the following requirements:
 
 - Demonstrate a good commit history. The more commits you make, the better it is for you when something goes wrong.
 
-- Have well-documented API routes
-
 - Must have a well-document README (**THIS IS REQUIRED**)
 
 - - A description of your project. Basically, what is it, and what does it do.
