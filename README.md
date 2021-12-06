@@ -18,7 +18,7 @@ Your project must satisfy the following requirements:
 
 - Must have an about page where it talks about the project and how to maneuver through your project
 
-- Have a repository under your GitHub account (do not fork this repo).
+- Have a repository under your GitHub account.
 
 - For styling, you can use Bootstrap, Material UI, Semantic UI, etc. 
 
